@@ -1,0 +1,78 @@
+FUTU API Code Non-Commercial License Agreement
+
+This FUTU API Code Non-Commercial License Agreement (“Agreement”) is an agreement between FUTU Company (any relevant entities within the FUTU Group participating in the operation of any website or application, collectively "FUTU" or “we”) and You in relation to the FUTU application program interface (“API”) that grants you the right and license to use the API Code for Non-Commercial Purposes. By clicking the "I AGREE" button, you acknowledge that You, representing Your entities to use the API, consent to be legally bound by this Agreement.
+1. Definition and License Grant
+
+1.1 “API” or “API Code” means the user code and related documents developed by FUTU that is made available to You to develop platforms, tools, or interfaces for your personal use with FUTU accounts or FUTU systems;
+
+1.2 Subject to the terms of this Agreement, FUTU hereby grants You a personal, revocable, royalty-free, non-exclusive, non-sublicensable, non-transferable, restricted right and license to install, modify and use the API Code solely for Non-Commercial Purposes;
+
+1.3 "Non-Commercial Purposes" means Your License under this Agreement is limited to develop platforms, tools, or interfaces for your personal use. You shall not use the API Code for any application or service for yourself or for anyone else for any commercial purpose, regardless of whether You receive any consideration for such application or service;
+
+1.4 The License shall only become effective on the date You accept all the terms and contents of this Agreement and when this Agreement becomes effective.
+
+1.5 The License and the right will terminate automatically:
+
+(1) if You fail to comply with any term(s) of this Agreement;
+
+(2) if You commit an action for right infringement against FUTU;
+
+(3) if You cancel Your FUTU account;
+
+(4) if any other circumstances occur in which to protect FUTU’s legitimate rights and interests.
+
+1.6 Upon termination of this Agreement, You shall immediately cease all use of the API Code granted hereunder, destroy all copies of the API Code completely and shall not retain the API Code or the copies of the API Code in any form after such destruction.
+2. Restrictions
+
+2.1 You acknowledge and agree that You shall only use the API Code in compliance with the terms of the Agreement and for Non-Commercial Purposes. Any other uses of the API Code are expressly prohibited
+
+2.2 FUTU shall own all right, title and interest in and to the API Code granted hereunder. You agree not to use, copy, replace, adapt, modify, regenerate, displace, distribute, transmit, broadcast, sell, authorize, publish, lease, sublicense, convert, translate, de-engineer, decompile, disassemble, create derivatives of, or disclose the API Code or any part thereof in any way and for any purpose whatsoever to any third party;
+
+2.3 Unless otherwise authorized by FUFU in writing, You shall not engage in or agree with any third party to engage in the following actions, or provide any assistance to any third party to engage in any matter in violation of this Agreement, including but not limited to:
+
+(1) using the API Code to interrupt, damage or limit the use of the API Code or other FUTU software, hardware, platforms, applications, web pages and systems;
+
+(2) engaging in any mining of personal information and data;
+
+(3) bypassing or making unavailable the blocking or restriction of copying behavior in the API Code, or interfering with the security-related characteristics of the API Code;
+
+(4) moving, replacing, or obscuring of any trademark, copyright, legal, or patent notice of the API Code;
+
+(5) using the API Code in any software or program that may contain viruses, trojan, software, worms, time bombs, autopilot viruses, or any other computer code or documentation designed to interrupt, damage or limit the API Code or the use in any FUTU software, hardware, platforms, applications, web pages and systems.
+
+2.4 You agree and confirm that you will, during the license period, continue to use the License hereunder in accordance with applicable local laws and in accordance with user agreement or service rules as updated by FUTU from time to time;
+
+2.5 You agree not to use the API Code for any purpose that violates any law or regulation, any right of any person, including but not limited to intellectual property rights, rights of privacy, or rights of personality, or in any manner in violation of this Agreements.
+3. Intellectual Property
+
+Except as expressly set forth herein, FUTU shall own all right, title and interest in and to the API and API Code, including but not limited to any code or documentation written by FUTU relating to the API Code, and any intellectual property rights in and to any modifications, replacements, translations or derivatives thereof. FUTU shall, to the extent permitted by law, have all rights and interests in and to the foregoing results.
+4. Disclaimer of Warranties
+
+4.1 You expressly acknowledge and agree that the API Code granted hereunder, all provided “as is” and on an “as-available” basis, may contain in whole or in part pre-release, untested, or not fully tested works. The API Code may contain errors that could cause failures or loss of data, and may be incomplete or contain inaccuracies.
+
+4.2 You understand and agree that the API Code granted hereunder is provided without warranty of any kind, either express or implied, including but not limited to, warranties that the API Code is free or defects, merchantable, non-infringing or fit for a particular purpose. This disclaimer of warranties constitutes an essential part of this License. You hereby agree and accept the foregoing disclaimer and that all risk resulting from Your use of the API Code or applications developed using the API Code is at Your sole and entire risk.
+5. Warranty and Guarantee
+
+You undertake and shall use all reasonable efforts to indemnify, defend and hold harmless FUTU, its affiliates and their representatives, directors, employees and agents from and against any claim, action, suit or proceeding, and any loss, liability, damage, cost and expense arising out of:
+
+(1) Your action in connection with the use of API Code;
+
+(2) Your use of API Code to develop relevant applications, or any action that causes legitimate rights and interests of a third party (including copyright, trademark, trade secret, trade dress, patent and other intellectual property rights or other interests);
+
+(3) any action in violation of this Agreement.
+6. Dispute Resolution
+
+6.1 The validity, interpretation, performance of this Agreement and dispute resolution shall be governed by the laws of mainland of the People’s Republic of China.
+
+6.2 Any dispute or controversy between You and FUTU shall be settled through friendly negotiation; if negotiation fails, you agree to submit the dispute or controversy to Shenzhen Nanshan District People's Court, Guangdong Province, People's Republic of China for jurisdiction.
+7. Others
+
+7.1 You agree that if FUTU does not exercise or enforce any legal right or remedy which is contained in this Agreement or is available to FUTU under any applicable law, this will not be taken to be a formal waiver of FUTU's rights and that those rights or remedies will still be available to FUTU.
+
+7.2 This Agreement constitutes the whole legal agreement between You and FUTU and governs Your use of the API Code, and completely replaces any prior agreements between You and FUTU in relation to the API Code;
+
+7.3 You may not assign, transfer, grant or sublicense this Agreement or any rights and authorizations hereunder, while FUTU may assign, transfer, grant or sublicense this Agreement or any rights and authorizations hereunder to its affiliates or other applicable entities without restriction.
+
+7.4 If You are entering into this Agreement on behalf of your employer or other entity, You represent and warrant that You have full legal authority to bind your employer or such entity to this Agreement
+
+7.5 All risks and adverse consequences arising from Your violation of this Agreement shall be borne by you.
